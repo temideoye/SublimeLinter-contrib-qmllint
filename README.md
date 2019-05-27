@@ -1,8 +1,6 @@
 SublimeLinter-contrib-qmllint
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-qmllint.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-qmllint)
-
 This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [qmllint](https://code.qt.io/cgit/qt/qtdeclarative.git/tree/tools/qmllint). It will be used with files that have the "QML" syntax.
 
 ## Installation
