@@ -1,0 +1,6 @@
+SublimeLinter-contrib-qmllint
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to qmllint.
+
+For more information, please see:
+https://github.com/temideoye/SublimeLinter-contrib-qmllint
